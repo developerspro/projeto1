@@ -13,6 +13,6 @@ scanf("%d",&A);
 printf("Digite outro numero:\n");
 scanf("%d",&B);
 RESULTADO = A+B;
-printf("Resultado de %d + %d: %d",A,B,RESULTADO);
+printf("Resultado: %d",RESULTADO);
 
 }
